@@ -1,14 +1,13 @@
 ---
-title: "About"
+title: "About me"
 layout: about
+subtitle: I'm Antonio Almeida
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+I am an IT enthusiasm with a diverse background. I started my career as an Electrical Engineer and developed into a Network and Systems Engineer.
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+I've been working on networks since 1998. Almost all of that time was spent in a large retail company in Portugal where I'm mainly focused on the data center network.
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+I have been constantly on a steep learning curve in order to continuously improve and achieve multidisciplinary in IT expertise. Continuous learning, being a team player, a high degree of accountability, and technical excellence is what I am known for.
+
+In this blog I will try to document some of the challenges that I tackle every day that I think may be useful and interesting.
